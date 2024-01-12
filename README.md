@@ -10,7 +10,6 @@
 
 ## Outgoing Connection
 
-![Alt text](<Bluetooth 1.png>)
 # Bluetooth
 
 * Bluetooth is the way for devices to communicate over a short range    
@@ -23,3 +22,4 @@
 
 ## Outgoing Connection
 
+![Alt text](<Bluetooth 1.png>)
